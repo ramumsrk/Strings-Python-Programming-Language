@@ -1,0 +1,2 @@
+2024-05-27 19:37:30,719 | root | DEBUG | 'Guido Van Rossum' converted to uppercase results in 'GUIDO VAN ROSSUM'
+2024-05-27 19:37:30,719 | root | DEBUG | 'Guido Van Rossum' converted to lowercase results in 'guido van rossum'
